@@ -1,13 +1,21 @@
-Parisa Khanjani
+# Flanker-Stroop Experiment with Psychopy
 
-# My First Assignment
+This is a simple Flanker-Stroop experiment, which I have coded as a project for the course **"Building an Experiment in Python"**.
+For this project I have used *"Psychopy"* which is an open-source Python package.
 
-## This is the Content of my First Assignment
+First, the experimenter should enter the participant's ID and choose the project.
+![Alt text](Images/Infosheet.png)
 
-* Bullet points of the First Assignment
+* Flanker Part
+![Alt text](Images/Flanker1.png)
+![Alt text](Images/Flanker2.png)
+![Alt text](Images/Flanker3.png)
 
-*This is an italicized sentence in my First Assignment*
+The participant receives a message that the next block is starting.
+![Alt text](Images/Infosheet2.png)
 
-**This is an Bold sentence in my First Assignment**
+* Stroop Part
+![Alt text](Images/Stroop1.png)
+![Alt text](Images/Stroop2.png)
+![Alt text](Images/Stroop3.png)
 
-[Visit this Link](www.google.com)
