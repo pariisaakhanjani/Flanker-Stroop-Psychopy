@@ -13,7 +13,7 @@ First, the experimenter should enter the participant's ID and choose the project
 ---
 
 ### Flanker Part
-In the Flanker part of the experiment, participants are shown a series of trials. Below are examples:
+In the Flanker part of the experiment, participants are shown a series of trials. For example:
 
 ![Flanker Example 1](Images/Flanker1.png)  
 ![Flanker Example 2](Images/Flanker2.png)  
@@ -26,7 +26,7 @@ After completing the Flanker block, the participant receives a message that the 
 ---
 
 ### Stroop Part
-In the Stroop part of the experiment, participants are shown tasks involving color-word conflict. Below are examples:
+In the Stroop part of the experiment, participants are shown tasks involving color-word conflict. For example:
 
 ![Stroop Example 1](Images/Stroop1.png)  
 ![Stroop Example 2](Images/Stroop2.png)  
